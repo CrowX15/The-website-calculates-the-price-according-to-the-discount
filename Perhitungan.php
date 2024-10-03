@@ -148,6 +148,10 @@
         </div>
         <?php
     }
+    // CREDIT
+    // Pembuat Fareza Dava Rabbani
+    // Kelas 3P41
+    // NIM 23.240.0057
     ?>
 </body>
 </html>
